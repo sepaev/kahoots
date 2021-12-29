@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kahoots/static/css/main.073c9b0a.css",
+    "main.js": "/kahoots/static/js/main.00891ad5.js",
+    "static/js/787.58a718a9.chunk.js": "/kahoots/static/js/787.58a718a9.chunk.js",
+    "index.html": "/kahoots/index.html",
+    "main.073c9b0a.css.map": "/kahoots/static/css/main.073c9b0a.css.map",
+    "main.00891ad5.js.map": "/kahoots/static/js/main.00891ad5.js.map",
+    "787.58a718a9.chunk.js.map": "/kahoots/static/js/787.58a718a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.00891ad5.js"
+  ]
+}
